@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Prabhjeet Singh<br><br>🎓 Data Science Student | 📊 Aspiring ML Engineer<br><br>---<br><br>## 🚀 About Me<br><br>* 🔭 I’m currently working on **Machine Learning & Data Analysis projects**<br>* 🤝 I’m looking to collaborate on **real-world Data Science projects**<br>* 🧠 I’m looking for help with **advanced ML & deployment**<br>* 🌱 I’m currently learning **Deep Learning & Model Optimization**<br>* 💬 Ask me about **Python, Machine Learning, Data Analysis**<br>* ⚡ Fun fact: I enjoy turning raw data into meaningful insights<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages & Tools:**<br><br>* 🐍 Python<br>* 🤖 Machine Learning (Scikit-learn, Pandas, NumPy)<br>* 🗄️ MySQL<br>* 📊 Power BI<br><br>---<br><br>## 📫 Connect With Me<br><br>* 🔗 LinkedIn: https://linkedin.com/in/prabhjeet-singh-1648b1372<br><br>---<br>
+ 👋 Hi, I'm Prabhjeet Singh<br><br>🎓 Data Science Student | 📊 Aspiring ML Engineer<br><br>---<br><br>🚀 About Me<br><br>* 🔭 I’m currently working on **Machine Learning & Data Analysis projects**<br>* 🤝 I’m looking to collaborate on **real-world Data Science projects**<br>* 🧠 I’m looking for help with **advanced ML & deployment**<br>* 🌱 I’m currently learning **Deep Learning & Model Optimization**<br>* 💬 Ask me about **Python, Machine Learning, Data Analysis**<br>* ⚡ Fun fact: I enjoy turning raw data into meaningful insights<br><br>---<br><br>## 🛠️ Tech Stack<br><br>**Languages & Tools:**<br><br>* 🐍 Python<br>* 🤖 Machine Learning (Scikit-learn, Pandas, NumPy)<br>* 🗄️ MySQL<br>* 📊 Power BI<br><br>---<br><br>## 📫 Connect With Me<br><br>* 🔗 LinkedIn: https://linkedin.com/in/prabhjeet-singh-1648b1372<br><br>---<br>
 
 
 ## 🌐 Socials:
@@ -13,15 +13,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabh08&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prabh08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prabh08&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=prabh08&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prabh08&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prabh08&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
